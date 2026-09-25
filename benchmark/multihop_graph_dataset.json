@@ -1,0 +1,212 @@
+[
+  {
+    "query": "Which memories are connected to Python, either directly or through another shared concept?",
+    "relevant_memory_ids": [
+      "4ecbe97b-734b-4c3e-9bc6-8bdaec9d0add",
+      "4ff95772-3168-4872-8bda-1a381de2291e",
+      "54301f09-88d7-44e9-b57e-6c143e767b79",
+      "59eb3a77-263b-42c7-b23c-b2ac51f0a14f",
+      "6192e387-f1cd-441b-b811-6abb40501754",
+      "640af191-bf07-4dbb-8dba-f936f0da6869",
+      "678535d2-281c-445f-8c90-04526550995f",
+      "a549a279-5feb-41fe-8d28-543c7138a0cf",
+      "a7f8bd60-6a06-47a7-a511-c55a631b10ee",
+      "d1e6edf1-2cac-4b69-8c5f-12865cd449a7"
+    ],
+    "direct_memory_ids": [
+      "4ecbe97b-734b-4c3e-9bc6-8bdaec9d0add",
+      "4ff95772-3168-4872-8bda-1a381de2291e",
+      "6192e387-f1cd-441b-b811-6abb40501754",
+      "640af191-bf07-4dbb-8dba-f936f0da6869",
+      "678535d2-281c-445f-8c90-04526550995f"
+    ],
+    "indirect_memory_ids": [
+      "54301f09-88d7-44e9-b57e-6c143e767b79",
+      "59eb3a77-263b-42c7-b23c-b2ac51f0a14f",
+      "a549a279-5feb-41fe-8d28-543c7138a0cf",
+      "a7f8bd60-6a06-47a7-a511-c55a631b10ee",
+      "d1e6edf1-2cac-4b69-8c5f-12865cd449a7"
+    ],
+    "concept": "Python",
+    "type": "multi_hop_graph"
+  },
+  {
+    "query": "Which memories are connected to PostgreSQL, either directly or through another shared concept?",
+    "relevant_memory_ids": [
+      "4ecbe97b-734b-4c3e-9bc6-8bdaec9d0add",
+      "4ff95772-3168-4872-8bda-1a381de2291e",
+      "54301f09-88d7-44e9-b57e-6c143e767b79",
+      "59eb3a77-263b-42c7-b23c-b2ac51f0a14f",
+      "6192e387-f1cd-441b-b811-6abb40501754",
+      "640af191-bf07-4dbb-8dba-f936f0da6869",
+      "678535d2-281c-445f-8c90-04526550995f",
+      "a7f8bd60-6a06-47a7-a511-c55a631b10ee"
+    ],
+    "direct_memory_ids": [
+      "59eb3a77-263b-42c7-b23c-b2ac51f0a14f",
+      "678535d2-281c-445f-8c90-04526550995f"
+    ],
+    "indirect_memory_ids": [
+      "4ecbe97b-734b-4c3e-9bc6-8bdaec9d0add",
+      "4ff95772-3168-4872-8bda-1a381de2291e",
+      "54301f09-88d7-44e9-b57e-6c143e767b79",
+      "6192e387-f1cd-441b-b811-6abb40501754",
+      "640af191-bf07-4dbb-8dba-f936f0da6869",
+      "a7f8bd60-6a06-47a7-a511-c55a631b10ee"
+    ],
+    "concept": "PostgreSQL",
+    "type": "multi_hop_graph"
+  },
+  {
+    "query": "Which memories are connected to Neo4j, either directly or through another shared concept?",
+    "relevant_memory_ids": [
+      "4ecbe97b-734b-4c3e-9bc6-8bdaec9d0add",
+      "4ff95772-3168-4872-8bda-1a381de2291e",
+      "54301f09-88d7-44e9-b57e-6c143e767b79",
+      "59eb3a77-263b-42c7-b23c-b2ac51f0a14f",
+      "6192e387-f1cd-441b-b811-6abb40501754",
+      "640af191-bf07-4dbb-8dba-f936f0da6869",
+      "678535d2-281c-445f-8c90-04526550995f",
+      "a7f8bd60-6a06-47a7-a511-c55a631b10ee"
+    ],
+    "direct_memory_ids": [
+      "54301f09-88d7-44e9-b57e-6c143e767b79",
+      "640af191-bf07-4dbb-8dba-f936f0da6869",
+      "678535d2-281c-445f-8c90-04526550995f"
+    ],
+    "indirect_memory_ids": [
+      "4ecbe97b-734b-4c3e-9bc6-8bdaec9d0add",
+      "4ff95772-3168-4872-8bda-1a381de2291e",
+      "59eb3a77-263b-42c7-b23c-b2ac51f0a14f",
+      "6192e387-f1cd-441b-b811-6abb40501754",
+      "a7f8bd60-6a06-47a7-a511-c55a631b10ee"
+    ],
+    "concept": "Neo4j",
+    "type": "multi_hop_graph"
+  },
+  {
+    "query": "Which memories are connected to Machine Learning, either directly or through another shared concept?",
+    "relevant_memory_ids": [
+      "4ecbe97b-734b-4c3e-9bc6-8bdaec9d0add",
+      "4ff95772-3168-4872-8bda-1a381de2291e",
+      "6192e387-f1cd-441b-b811-6abb40501754",
+      "640af191-bf07-4dbb-8dba-f936f0da6869",
+      "678535d2-281c-445f-8c90-04526550995f",
+      "a549a279-5feb-41fe-8d28-543c7138a0cf",
+      "d1e6edf1-2cac-4b69-8c5f-12865cd449a7"
+    ],
+    "direct_memory_ids": [
+      "4ecbe97b-734b-4c3e-9bc6-8bdaec9d0add",
+      "a549a279-5feb-41fe-8d28-543c7138a0cf"
+    ],
+    "indirect_memory_ids": [
+      "4ff95772-3168-4872-8bda-1a381de2291e",
+      "6192e387-f1cd-441b-b811-6abb40501754",
+      "640af191-bf07-4dbb-8dba-f936f0da6869",
+      "678535d2-281c-445f-8c90-04526550995f",
+      "d1e6edf1-2cac-4b69-8c5f-12865cd449a7"
+    ],
+    "concept": "Machine Learning",
+    "type": "multi_hop_graph"
+  },
+  {
+    "query": "Which memories are connected to Natural Language Processing, either directly or through another shared concept?",
+    "relevant_memory_ids": [
+      "4ecbe97b-734b-4c3e-9bc6-8bdaec9d0add",
+      "4ff95772-3168-4872-8bda-1a381de2291e",
+      "6192e387-f1cd-441b-b811-6abb40501754",
+      "640af191-bf07-4dbb-8dba-f936f0da6869",
+      "678535d2-281c-445f-8c90-04526550995f",
+      "a549a279-5feb-41fe-8d28-543c7138a0cf",
+      "d1e6edf1-2cac-4b69-8c5f-12865cd449a7"
+    ],
+    "direct_memory_ids": [
+      "4ecbe97b-734b-4c3e-9bc6-8bdaec9d0add",
+      "d1e6edf1-2cac-4b69-8c5f-12865cd449a7"
+    ],
+    "indirect_memory_ids": [
+      "4ff95772-3168-4872-8bda-1a381de2291e",
+      "6192e387-f1cd-441b-b811-6abb40501754",
+      "640af191-bf07-4dbb-8dba-f936f0da6869",
+      "678535d2-281c-445f-8c90-04526550995f",
+      "a549a279-5feb-41fe-8d28-543c7138a0cf"
+    ],
+    "concept": "Natural Language Processing",
+    "type": "multi_hop_graph"
+  },
+  {
+    "query": "Which memories are connected to FastAPI, either directly or through another shared concept?",
+    "relevant_memory_ids": [
+      "4ecbe97b-734b-4c3e-9bc6-8bdaec9d0add",
+      "4ff95772-3168-4872-8bda-1a381de2291e",
+      "54301f09-88d7-44e9-b57e-6c143e767b79",
+      "59eb3a77-263b-42c7-b23c-b2ac51f0a14f",
+      "6192e387-f1cd-441b-b811-6abb40501754",
+      "640af191-bf07-4dbb-8dba-f936f0da6869",
+      "678535d2-281c-445f-8c90-04526550995f",
+      "a7f8bd60-6a06-47a7-a511-c55a631b10ee"
+    ],
+    "direct_memory_ids": [
+      "678535d2-281c-445f-8c90-04526550995f",
+      "a7f8bd60-6a06-47a7-a511-c55a631b10ee"
+    ],
+    "indirect_memory_ids": [
+      "4ecbe97b-734b-4c3e-9bc6-8bdaec9d0add",
+      "4ff95772-3168-4872-8bda-1a381de2291e",
+      "54301f09-88d7-44e9-b57e-6c143e767b79",
+      "59eb3a77-263b-42c7-b23c-b2ac51f0a14f",
+      "6192e387-f1cd-441b-b811-6abb40501754",
+      "640af191-bf07-4dbb-8dba-f936f0da6869"
+    ],
+    "concept": "FastAPI",
+    "type": "multi_hop_graph"
+  },
+  {
+    "query": "Which memories are connected to Docker, either directly or through another shared concept?",
+    "relevant_memory_ids": [
+      "ae41a97b-855d-473d-8409-a50046724e12"
+    ],
+    "direct_memory_ids": [
+      "ae41a97b-855d-473d-8409-a50046724e12"
+    ],
+    "indirect_memory_ids": [],
+    "concept": "Docker",
+    "type": "multi_hop_graph"
+  },
+  {
+    "query": "Which memories are connected to Java, either directly or through another shared concept?",
+    "relevant_memory_ids": [
+      "2c7d2e73-78e1-4019-b3d5-4d92c14ac6c8"
+    ],
+    "direct_memory_ids": [
+      "2c7d2e73-78e1-4019-b3d5-4d92c14ac6c8"
+    ],
+    "indirect_memory_ids": [],
+    "concept": "Java",
+    "type": "multi_hop_graph"
+  },
+  {
+    "query": "Which memories are connected to TCP, either directly or through another shared concept?",
+    "relevant_memory_ids": [
+      "25299eda-ef10-41b7-af72-8bed9457c949"
+    ],
+    "direct_memory_ids": [
+      "25299eda-ef10-41b7-af72-8bed9457c949"
+    ],
+    "indirect_memory_ids": [],
+    "concept": "TCP",
+    "type": "multi_hop_graph"
+  },
+  {
+    "query": "Which memories are connected to K-Means, either directly or through another shared concept?",
+    "relevant_memory_ids": [
+      "17413b7b-ca94-4b72-bcfb-a692a5f42bf0"
+    ],
+    "direct_memory_ids": [
+      "17413b7b-ca94-4b72-bcfb-a692a5f42bf0"
+    ],
+    "indirect_memory_ids": [],
+    "concept": "K-Means",
+    "type": "multi_hop_graph"
+  }
+]

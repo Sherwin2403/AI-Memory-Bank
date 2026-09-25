@@ -1,0 +1,98 @@
+[
+  {
+    "query": "What programming language am I learning?",
+    "relevant_memory_ids": [
+      "640af191-bf07-4dbb-8dba-f936f0da6869"
+    ]
+  },
+  {
+    "query": "What am I studying related to AI?",
+    "relevant_memory_ids": [
+      "640af191-bf07-4dbb-8dba-f936f0da6869"
+    ]
+  },
+  {
+    "query": "Which graph database am I learning?",
+    "relevant_memory_ids": [
+      "640af191-bf07-4dbb-8dba-f936f0da6869",
+      "6bbf1480-0d30-4415-9d91-33c0aa123bc8"
+    ]
+  },
+  {
+    "query": "What database technologies am I using?",
+    "relevant_memory_ids": [
+      "7de07b25-9fb7-49d9-976e-36b8a3f864e5",
+      "678535d2-281c-445f-8c90-04526550995f"
+    ]
+  },
+  {
+    "query": "What technologies are being used to build my memory system?",
+    "relevant_memory_ids": [
+      "7de07b25-9fb7-49d9-976e-36b8a3f864e5",
+      "678535d2-281c-445f-8c90-04526550995f"
+    ]
+  },
+  {
+    "query": "What is Neo4j being used for in my project?",
+    "relevant_memory_ids": [
+      "6bbf1480-0d30-4415-9d91-33c0aa123bc8"
+    ]
+  },
+  {
+    "query": "Why am I using a graph database?",
+    "relevant_memory_ids": [
+      "6bbf1480-0d30-4415-9d91-33c0aa123bc8"
+    ]
+  },
+  {
+    "query": "What framework am I using for the backend?",
+    "relevant_memory_ids": [
+      "678535d2-281c-445f-8c90-04526550995f"
+    ]
+  },
+  {
+    "query": "What am I using FastAPI for?",
+    "relevant_memory_ids": [
+      "678535d2-281c-445f-8c90-04526550995f"
+    ]
+  },
+  {
+    "query": "What am I studying in natural language processing?",
+    "relevant_memory_ids": [
+      "4ecbe97b-734b-4c3e-9bc6-8bdaec9d0add"
+    ]
+  },
+  {
+    "query": "Which AI fields am I studying?",
+    "relevant_memory_ids": [
+      "4ecbe97b-734b-4c3e-9bc6-8bdaec9d0add",
+      "640af191-bf07-4dbb-8dba-f936f0da6869"
+    ]
+  },
+  {
+    "query": "What am I learning with Python?",
+    "relevant_memory_ids": [
+      "640af191-bf07-4dbb-8dba-f936f0da6869",
+      "4ecbe97b-734b-4c3e-9bc6-8bdaec9d0add"
+    ]
+  },
+  {
+    "query": "What kind of AI systems do I want to build?",
+    "relevant_memory_ids": [
+      "2df56e21-b9f7-49de-8503-654ebaa24b50"
+    ]
+  },
+  {
+    "query": "Do I want long-term memory in my AI agents?",
+    "relevant_memory_ids": [
+      "2df56e21-b9f7-49de-8503-654ebaa24b50"
+    ]
+  },
+  {
+    "query": "What am I building with PostgreSQL and Neo4j?",
+    "relevant_memory_ids": [
+      "7de07b25-9fb7-49d9-976e-36b8a3f864e5",
+      "678535d2-281c-445f-8c90-04526550995f"
+    ]
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "query": "What am I studying or working with related to Python?",
+    "relevant_memory_ids": [
+      "4ff95772-3168-4872-8bda-1a381de2291e"
+    ],
+    "category": "programming",
+    "topic": "Python"
+  },
+  {
+    "query": "What am I studying or working with related to Java?",
+    "relevant_memory_ids": [
+      "2c7d2e73-78e1-4019-b3d5-4d92c14ac6c8"
+    ],
+    "category": "programming",
+    "topic": "Java"
+  },
+  {
+    "query": "What am I studying or working with related to Rust?",
+    "relevant_memory_ids": [
+      "8e07df2d-84fa-4f4c-8d93-7d4b92f80b93"
+    ],
+    "category": "programming",
+    "topic": "Rust"
+  },
+  {
+    "query": "What am I studying or working with related to C++?",
+    "relevant_memory_ids": [
+      "5b5b4fe9-119a-46e5-91f8-1c7e67b4b943"
+    ],
+    "category": "programming",
+    "topic": "C++"
+  },
+  {
+    "query": "What am I studying or working with related to Go?",
+    "relevant_memory_ids": [
+      "2c8223a4-3309-4026-944d-a8c51b643784"
+    ],
+    "category": "programming",
+    "topic": "Go"
+  },
+  {
+    "query": "What am I studying or working with related to JavaScript?",
+    "relevant_memory_ids": [
+      "7625d54f-0871-4c6c-86e3-902838686ec2"
+    ],
+    "category": "programming",
+    "topic": "JavaScript"
+  },
+  {
+    "query": "What am I studying or working with related to TypeScript?",
+    "relevant_memory_ids": [
+      "00431210-f142-4947-924f-6fbe0802b7d8"
+    ],
+    "category": "programming",
+    "topic": "TypeScript"
+  },
+  {
+    "query": "What am I studying or working with related to C?",
+    "relevant_memory_ids": [
+      "1f4a35e9-0498-4c02-b11b-20997c8ba944"
+    ],
+    "category": "programming",
+    "topic": "C"
+  },
+  {
+    "query": "What am I studying or working with related to Kotlin?",
+    "relevant_memory_ids": [
+      "933df95e-601a-42a9-ae2c-72e8a67e475c"
+    ],
+    "category": "programming",
+    "topic": "Kotlin"
+  },
+  {
+    "query": "What am I studying or working with related to Swift?",
+    "relevant_memory_ids": [
+      "a608d8f5-8603-4974-bf74-8c3607ba1693"
+    ],
+    "category": "programming",
+    "topic": "Swift"
+  },
+  {
+    "query": "What am I studying or working with related to PostgreSQL?",
+    "relevant_memory_ids": [
+      "59eb3a77-263b-42c7-b23c-b2ac51f0a14f"
+    ],
+    "category": "databases",
+    "topic": "PostgreSQL"
+  },
+  {
+    "query": "What am I studying or working with related to MySQL?",
+    "relevant_memory_ids": [
+      "54b056fe-2343-4828-9cc6-520bb2eb0817"
+    ],
+    "category": "databases",
+    "topic": "MySQL"
+  },
+  {
+    "query": "What am I studying or working with related to MongoDB?",
+    "relevant_memory_ids": [
+      "e25dec0f-5d3a-40ab-8216-84990d0cc58b"
+    ],
+    "category": "databases",
+    "topic": "MongoDB"
+  },
+  {
+    "query": "What am I studying or working with related to Neo4j?",
+    "relevant_memory_ids": [
+      "54301f09-88d7-44e9-b57e-6c143e767b79"
+    ],
+    "category": "databases",
+    "topic": "Neo4j"
+  },
+  {
+    "query": "What am I studying or working with related to Redis?",
+    "relevant_memory_ids": [
+      "b7eb77d2-e77d-4576-8bab-3a82b59b488e"
+    ],
+    "category": "databases",
+    "topic": "Redis"
+  },
+  {
+    "query": "What am I studying or working with related to SQLite?",
+    "relevant_memory_ids": [
+      "973d2153-cea4-49ae-91db-ed4782575a80"
+    ],
+    "category": "databases",
+    "topic": "SQLite"
+  },
+  {
+    "query": "What am I studying or working with related to Cassandra?",
+    "relevant_memory_ids": [
+      "d57ad7ea-b419-498b-8654-66e2eef5a0fd"
+    ],
+    "category": "databases",
+    "topic": "Cassandra"
+  },
+  {
+    "query": "What am I studying or working with related to Oracle?",
+    "relevant_memory_ids": [
+      "062ffd91-a793-4b09-9317-01bde75cf8a2"
+    ],
+    "category": "databases",
+    "topic": "Oracle"
+  },
+  {
+    "query": "What am I studying or working with related to MariaDB?",
+    "relevant_memory_ids": [
+      "3dac7392-4f7a-421e-a08b-08fa22d2b27f"
+    ],
+    "category": "databases",
+    "topic": "MariaDB"
+  },
+  {
+    "query": "What am I studying or working with related to Elasticsearch?",
+    "relevant_memory_ids": [
+      "f2321182-d5a8-4c0d-9b93-9067312ee1bd"
+    ],
+    "category": "databases",
+    "topic": "Elasticsearch"
+  },
+  {
+    "query": "What am I studying or working with related to Machine Learning?",
+    "relevant_memory_ids": [
+      "a549a279-5feb-41fe-8d28-543c7138a0cf"
+    ],
+    "category": "artificial_intelligence",
+    "topic": "Machine Learning"
+  },
+  {
+    "query": "What am I studying or working with related to Natural Language Processing?",
+    "relevant_memory_ids": [
+      "d1e6edf1-2cac-4b69-8c5f-12865cd449a7"
+    ],
+    "category": "artificial_intelligence",
+    "topic": "Natural Language Processing"
+  },
+  {
+    "query": "What am I studying or working with related to Computer Vision?",
+    "relevant_memory_ids": [
+      "ba170c52-9222-4674-8af5-7bb0900e7b74"
+    ],
+    "category": "artificial_intelligence",
+    "topic": "Computer Vision"
+  },
+  {
+    "query": "What am I studying or working with related to Deep Learning?",
+    "relevant_memory_ids": [
+      "45c303a0-2192-4782-a3bc-60263c0ab4e0"
+    ],
+    "category": "artificial_intelligence",
+    "topic": "Deep Learning"
+  },
+  {
+    "query": "What am I studying or working with related to Reinforcement Learning?",
+    "relevant_memory_ids": [
+      "682db722-ebbb-41c8-92a5-e8eb7b67b67a"
+    ],
+    "category": "artificial_intelligence",
+    "topic": "Reinforcement Learning"
+  },
+  {
+    "query": "What am I studying or working with related to Transformers?",
+    "relevant_memory_ids": [
+      "df96fb09-e5e1-4b12-8719-1bfbe87106b7"
+    ],
+    "category": "artificial_intelligence",
+    "topic": "Transformers"
+  },
+  {
+    "query": "What am I studying or working with related to Generative AI?",
+    "relevant_memory_ids": [
+      "399d7103-440f-47f8-9b5f-f33b218b4284"
+    ],
+    "category": "artificial_intelligence",
+    "topic": "Generative AI"
+  },
+  {
+    "query": "What am I studying or working with related to Retrieval Augmented Generation?",
+    "relevant_memory_ids": [
+      "2dd20b11-b8b4-48e7-b4ad-54125cd793a6"
+    ],
+    "category": "artificial_intelligence",
+    "topic": "Retrieval Augmented Generation"
+  },
+  {
+    "query": "What am I studying or working with related to Large Language Models?",
+    "relevant_memory_ids": [
+      "399c3bda-6a66-4b36-a8e2-0ddbd55cfc70"
+    ],
+    "category": "artificial_intelligence",
+    "topic": "Large Language Models"
+  },
+  {
+    "query": "What am I studying or working with related to Embeddings?",
+    "relevant_memory_ids": [
+      "c508ba05-0587-459b-a35d-c8531b5796e7"
+    ],
+    "category": "artificial_intelligence",
+    "topic": "Embeddings"
+  },
+  {
+    "query": "What am I studying or working with related to TCP?",
+    "relevant_memory_ids": [
+      "25299eda-ef10-41b7-af72-8bed9457c949"
+    ],
+    "category": "networking",
+    "topic": "TCP"
+  },
+  {
+    "query": "What am I studying or working with related to UDP?",
+    "relevant_memory_ids": [
+      "22937109-0b71-4fc4-b08d-0d69b15c05c8"
+    ],
+    "category": "networking",
+    "topic": "UDP"
+  },
+  {
+    "query": "What am I studying or working with related to DNS?",
+    "relevant_memory_ids": [
+      "7ee6fee6-c025-49bc-bb8a-4f0d168f7458"
+    ],
+    "category": "networking",
+    "topic": "DNS"
+  },
+  {
+    "query": "What am I studying or working with related to DHCP?",
+    "relevant_memory_ids": [
+      "32a66d21-6270-4e7b-97b6-57683c9102b7"
+    ],
+    "category": "networking",
+    "topic": "DHCP"
+  },
+  {
+    "query": "What am I studying or working with related to ARP?",
+    "relevant_memory_ids": [
+      "daa8023e-346e-41a1-bfa0-938d29052cd4"
+    ],
+    "category": "networking",
+    "topic": "ARP"
+  },
+  {
+    "query": "What am I studying or working with related to ICMP?",
+    "relevant_memory_ids": [
+      "03682eab-8995-43b3-b4ab-05507497b204"
+    ],
+    "category": "networking",
+    "topic": "ICMP"
+  },
+  {
+    "query": "What am I studying or working with related to IP fragmentation?",
+    "relevant_memory_ids": [
+      "cd7d0baf-4679-44a3-8ec8-df835f95f6cb"
+    ],
+    "category": "networking",
+    "topic": "IP fragmentation"
+  },
+  {
+    "query": "What am I studying or working with related to Routing?",
+    "relevant_memory_ids": [
+      "092c8c59-c6a4-4a45-b781-84a74dd3ad6f"
+    ],
+    "category": "networking",
+    "topic": "Routing"
+  },
+  {
+    "query": "What am I studying or working with related to Subnetting?",
+    "relevant_memory_ids": [
+      "9216b977-b3e2-4d2a-9b2d-5c59d8c4f4a7"
+    ],
+    "category": "networking",
+    "topic": "Subnetting"
+  },
+  {
+    "query": "What am I studying or working with related to HTTP?",
+    "relevant_memory_ids": [
+      "5f11754e-191c-4fc0-afd9-9dabe87fa018"
+    ],
+    "category": "networking",
+    "topic": "HTTP"
+  },
+  {
+    "query": "What am I studying or working with related to FastAPI?",
+    "relevant_memory_ids": [
+      "a7f8bd60-6a06-47a7-a511-c55a631b10ee"
+    ],
+    "category": "backend",
+    "topic": "FastAPI"
+  },
+  {
+    "query": "What am I studying or working with related to Flask?",
+    "relevant_memory_ids": [
+      "d770997c-1fcf-45ad-b5a9-3b21bd249c98"
+    ],
+    "category": "backend",
+    "topic": "Flask"
+  },
+  {
+    "query": "What am I studying or working with related to Django?",
+    "relevant_memory_ids": [
+      "619895e6-f69a-4b83-8881-a67396d38939"
+    ],
+    "category": "backend",
+    "topic": "Django"
+  },
+  {
+    "query": "What am I studying or working with related to Node.js?",
+    "relevant_memory_ids": [
+      "2cfd4dc7-9c31-436a-a514-d215cbecfdb6"
+    ],
+    "category": "backend",
+    "topic": "Node.js"
+  },
+  {
+    "query": "What am I studying or working with related to REST API?",
+    "relevant_memory_ids": [
+      "550d8780-9534-4eea-9444-b044ac092c15"
+    ],
+    "category": "backend",
+    "topic": "REST API"
+  },
+  {
+    "query": "What am I studying or working with related to Docker?",
+    "relevant_memory_ids": [
+      "ae41a97b-855d-473d-8409-a50046724e12"
+    ],
+    "category": "backend",
+    "topic": "Docker"
+  },
+  {
+    "query": "What am I studying or working with related to Uvicorn?",
+    "relevant_memory_ids": [
+      "ae01b171-27dc-487f-8575-985cc09beabc"
+    ],
+    "category": "backend",
+    "topic": "Uvicorn"
+  },
+  {
+    "query": "What am I studying or working with related to Pydantic?",
+    "relevant_memory_ids": [
+      "6192e387-f1cd-441b-b811-6abb40501754"
+    ],
+    "category": "backend",
+    "topic": "Pydantic"
+  },
+  {
+    "query": "What am I studying or working with related to JWT?",
+    "relevant_memory_ids": [
+      "26f31001-6e0b-45d0-8be7-7b6e20906d7f"
+    ],
+    "category": "backend",
+    "topic": "JWT"
+  },
+  {
+    "query": "What am I studying or working with related to Microservices?",
+    "relevant_memory_ids": [
+      "852473b9-5b6c-451a-8234-487a1088abf6"
+    ],
+    "category": "backend",
+    "topic": "Microservices"
+  },
+  {
+    "query": "What am I studying or working with related to AWS?",
+    "relevant_memory_ids": [
+      "dc8deaad-05a6-42b6-b99c-63ed86414f30"
+    ],
+    "category": "cloud_devops",
+    "topic": "AWS"
+  },
+  {
+    "query": "What am I studying or working with related to Azure?",
+    "relevant_memory_ids": [
+      "9afc43c9-98f3-4904-bccf-3d5dc4e3edf7"
+    ],
+    "category": "cloud_devops",
+    "topic": "Azure"
+  },
+  {
+    "query": "What am I studying or working with related to Google Cloud?",
+    "relevant_memory_ids": [
+      "b10aef45-4a70-428e-9fa2-0172b3d832c5"
+    ],
+    "category": "cloud_devops",
+    "topic": "Google Cloud"
+  },
+  {
+    "query": "What am I studying or working with related to Kubernetes?",
+    "relevant_memory_ids": [
+      "ddfeb790-8a65-4bcb-b695-13912b881aac"
+    ],
+    "category": "cloud_devops",
+    "topic": "Kubernetes"
+  },
+  {
+    "query": "What am I studying or working with related to Terraform?",
+    "relevant_memory_ids": [
+      "b5db3271-5181-406f-9dae-91c52854bdb1"
+    ],
+    "category": "cloud_devops",
+    "topic": "Terraform"
+  },
+  {
+    "query": "What am I studying or working with related to CI/CD?",
+    "relevant_memory_ids": [
+      "f3257ad0-002d-4c25-8433-637950242d22"
+    ],
+    "category": "cloud_devops",
+    "topic": "CI/CD"
+  },
+  {
+    "query": "What am I studying or working with related to GitHub Actions?",
+    "relevant_memory_ids": [
+      "0b30dc71-a6fc-40e4-ac4a-05b1ea4be74b"
+    ],
+    "category": "cloud_devops",
+    "topic": "GitHub Actions"
+  },
+  {
+    "query": "What am I studying or working with related to Linux?",
+    "relevant_memory_ids": [
+      "97743d06-2540-4b0c-b334-ccefd425b4ec"
+    ],
+    "category": "cloud_devops",
+    "topic": "Linux"
+  },
+  {
+    "query": "What am I studying or working with related to Nginx?",
+    "relevant_memory_ids": [
+      "4de2571f-61e6-4683-ab74-1ed7b0700470"
+    ],
+    "category": "cloud_devops",
+    "topic": "Nginx"
+  },
+  {
+    "query": "What am I studying or working with related to Monitoring?",
+    "relevant_memory_ids": [
+      "d0d1776c-18c3-4e6c-bd3a-59ad0c257e77"
+    ],
+    "category": "cloud_devops",
+    "topic": "Monitoring"
+  },
+  {
+    "query": "What am I studying or working with related to Operating Systems?",
+    "relevant_memory_ids": [
+      "76593ead-0f79-4608-8209-4f02d94c038a"
+    ],
+    "category": "systems",
+    "topic": "Operating Systems"
+  },
+  {
+    "query": "What am I studying or working with related to Processes?",
+    "relevant_memory_ids": [
+      "1b5a42d6-8b6a-4662-a243-0242249c5f15"
+    ],
+    "category": "systems",
+    "topic": "Processes"
+  },
+  {
+    "query": "What am I studying or working with related to Threads?",
+    "relevant_memory_ids": [
+      "71e8f6a4-b802-498d-aa8b-2c58fdd9c751"
+    ],
+    "category": "systems",
+    "topic": "Threads"
+  },
+  {
+    "query": "What am I studying or working with related to Virtual Memory?",
+    "relevant_memory_ids": [
+      "5e08ae68-e18f-4c2b-b0ab-f0f6bbcf5ea2"
+    ],
+    "category": "systems",
+    "topic": "Virtual Memory"
+  },
+  {
+    "query": "What am I studying or working with related to File Systems?",
+    "relevant_memory_ids": [
+      "6bf7fa86-8d9a-4beb-b05f-62e08521fed6"
+    ],
+    "category": "systems",
+    "topic": "File Systems"
+  },
+  {
+    "query": "What am I studying or working with related to Scheduling?",
+    "relevant_memory_ids": [
+      "0e0f564c-0e5f-4f62-be87-77d0f6ad8aef"
+    ],
+    "category": "systems",
+    "topic": "Scheduling"
+  },
+  {
+    "query": "What am I studying or working with related to Deadlocks?",
+    "relevant_memory_ids": [
+      "71bb8a5a-197e-4f37-a60a-dcac6cf38007"
+    ],
+    "category": "systems",
+    "topic": "Deadlocks"
+  },
+  {
+    "query": "What am I studying or working with related to Distributed Systems?",
+    "relevant_memory_ids": [
+      "cda49219-978d-49de-a08d-9c55eb972f7e"
+    ],
+    "category": "systems",
+    "topic": "Distributed Systems"
+  },
+  {
+    "query": "What am I studying or working with related to Concurrency?",
+    "relevant_memory_ids": [
+      "3d293671-9cec-4510-8494-3ee38e83dab5"
+    ],
+    "category": "systems",
+    "topic": "Concurrency"
+  },
+  {
+    "query": "What am I studying or working with related to Computer Architecture?",
+    "relevant_memory_ids": [
+      "34bc6f06-8d97-4384-a35b-8a61d0be23f5"
+    ],
+    "category": "systems",
+    "topic": "Computer Architecture"
+  },
+  {
+    "query": "What am I studying or working with related to Data Mining?",
+    "relevant_memory_ids": [
+      "896bae3b-ae14-4a35-a36e-10da4e376990"
+    ],
+    "category": "data_science",
+    "topic": "Data Mining"
+  },
+  {
+    "query": "What am I studying or working with related to PCA?",
+    "relevant_memory_ids": [
+      "70279e29-feab-4e75-bb31-832b83373373"
+    ],
+    "category": "data_science",
+    "topic": "PCA"
+  },
+  {
+    "query": "What am I studying or working with related to Clustering?",
+    "relevant_memory_ids": [
+      "e48fd829-0603-44af-8278-521a1700046c"
+    ],
+    "category": "data_science",
+    "topic": "Clustering"
+  },
+  {
+    "query": "What am I studying or working with related to K-Means?",
+    "relevant_memory_ids": [
+      "17413b7b-ca94-4b72-bcfb-a692a5f42bf0"
+    ],
+    "category": "data_science",
+    "topic": "K-Means"
+  },
+  {
+    "query": "What am I studying or working with related to Regression?",
+    "relevant_memory_ids": [
+      "781bb20d-0141-4b51-aa76-ae07d7ac9355"
+    ],
+    "category": "data_science",
+    "topic": "Regression"
+  },
+  {
+    "query": "What am I studying or working with related to Classification?",
+    "relevant_memory_ids": [
+      "f99eaee3-ba48-4ed0-ab75-f50e3df9c3ab"
+    ],
+    "category": "data_science",
+    "topic": "Classification"
+  },
+  {
+    "query": "What am I studying or working with related to Decision Trees?",
+    "relevant_memory_ids": [
+      "9d257803-9c21-4fe5-b086-072716aa85b7"
+    ],
+    "category": "data_science",
+    "topic": "Decision Trees"
+  },
+  {
+    "query": "What am I studying or working with related to Random Forest?",
+    "relevant_memory_ids": [
+      "21a8c9f0-0769-49ff-aff2-9fb52c946e3c"
+    ],
+    "category": "data_science",
+    "topic": "Random Forest"
+  },
+  {
+    "query": "What am I studying or working with related to Feature Engineering?",
+    "relevant_memory_ids": [
+      "50bd49ec-8c3a-446f-b6f6-735fc5a77ac0"
+    ],
+    "category": "data_science",
+    "topic": "Feature Engineering"
+  },
+  {
+    "query": "What am I studying or working with related to Data Visualization?",
+    "relevant_memory_ids": [
+      "2d50b0e0-edbc-49d9-be3a-ea3476218b05"
+    ],
+    "category": "data_science",
+    "topic": "Data Visualization"
+  },
+  {
+    "query": "What am I studying or working with related to Normalization?",
+    "relevant_memory_ids": [
+      "2a7d0988-12f6-4eb8-bda1-b69dc701124e"
+    ],
+    "category": "dbms",
+    "topic": "Normalization"
+  },
+  {
+    "query": "What am I studying or working with related to Transactions?",
+    "relevant_memory_ids": [
+      "5acb0fd7-e4ad-49f4-b058-d7d8419a7875"
+    ],
+    "category": "dbms",
+    "topic": "Transactions"
+  },
+  {
+    "query": "What am I studying or working with related to ACID?",
+    "relevant_memory_ids": [
+      "e18e7f19-187f-4249-a9cc-3fbe1db8556f"
+    ],
+    "category": "dbms",
+    "topic": "ACID"
+  },
+  {
+    "query": "What am I studying or working with related to Indexes?",
+    "relevant_memory_ids": [
+      "67f27f25-61e0-4f71-9df6-94d6b779d692"
+    ],
+    "category": "dbms",
+    "topic": "Indexes"
+  },
+  {
+    "query": "What am I studying or working with related to B-Trees?",
+    "relevant_memory_ids": [
+      "94932864-9052-4e1c-b8ee-784ca2b7d4cf"
+    ],
+    "category": "dbms",
+    "topic": "B-Trees"
+  },
+  {
+    "query": "What am I studying or working with related to HNSW?",
+    "relevant_memory_ids": [
+      "c3d68b1d-7661-4e03-bfb3-45b4b6a7c348"
+    ],
+    "category": "dbms",
+    "topic": "HNSW"
+  },
+  {
+    "query": "What am I studying or working with related to SQL joins?",
+    "relevant_memory_ids": [
+      "c375c8a6-6364-4d57-a063-3eef2f48194f"
+    ],
+    "category": "dbms",
+    "topic": "SQL joins"
+  },
+  {
+    "query": "What am I studying or working with related to Foreign Keys?",
+    "relevant_memory_ids": [
+      "93eddbb0-7c25-48c0-b7d9-8ec725d81e99"
+    ],
+    "category": "dbms",
+    "topic": "Foreign Keys"
+  },
+  {
+    "query": "What am I studying or working with related to Query Optimization?",
+    "relevant_memory_ids": [
+      "96b76a47-773b-486b-a537-613f09cb3d51"
+    ],
+    "category": "dbms",
+    "topic": "Query Optimization"
+  },
+  {
+    "query": "What am I studying or working with related to Replication?",
+    "relevant_memory_ids": [
+      "e34dee80-3718-4de0-8881-93f3bf0bcea0"
+    ],
+    "category": "dbms",
+    "topic": "Replication"
+  },
+  {
+    "query": "What am I studying or working with related to Git?",
+    "relevant_memory_ids": [
+      "41eef542-0e35-4004-87ce-fc25a470e2e1"
+    ],
+    "category": "software_engineering",
+    "topic": "Git"
+  },
+  {
+    "query": "What am I studying or working with related to GitHub?",
+    "relevant_memory_ids": [
+      "662a6205-bbc5-4255-9684-41c74e129ae7"
+    ],
+    "category": "software_engineering",
+    "topic": "GitHub"
+  },
+  {
+    "query": "What am I studying or working with related to Unit Testing?",
+    "relevant_memory_ids": [
+      "dd2c5e70-29bd-471e-a073-a75b0960f299"
+    ],
+    "category": "software_engineering",
+    "topic": "Unit Testing"
+  },
+  {
+    "query": "What am I studying or working with related to Debugging?",
+    "relevant_memory_ids": [
+      "4c4ca617-9f58-4e96-843c-9965c6d3fcba"
+    ],
+    "category": "software_engineering",
+    "topic": "Debugging"
+  },
+  {
+    "query": "What am I studying or working with related to Agile?",
+    "relevant_memory_ids": [
+      "e60eb8c6-b08f-48cc-abb7-6900dc396035"
+    ],
+    "category": "software_engineering",
+    "topic": "Agile"
+  },
+  {
+    "query": "What am I studying or working with related to Design Patterns?",
+    "relevant_memory_ids": [
+      "e56aaaa4-fbfa-4a74-9374-02a4f76e602f"
+    ],
+    "category": "software_engineering",
+    "topic": "Design Patterns"
+  },
+  {
+    "query": "What am I studying or working with related to Clean Code?",
+    "relevant_memory_ids": [
+      "84db661c-6c92-4bce-b166-1e6af58ad8ba"
+    ],
+    "category": "software_engineering",
+    "topic": "Clean Code"
+  },
+  {
+    "query": "What am I studying or working with related to Code Review?",
+    "relevant_memory_ids": [
+      "c51b6b6b-399d-4e74-8f47-f40af835766f"
+    ],
+    "category": "software_engineering",
+    "topic": "Code Review"
+  },
+  {
+    "query": "What am I studying or working with related to Documentation?",
+    "relevant_memory_ids": [
+      "a953ed5a-7f6a-4a01-95a5-6849d390163d"
+    ],
+    "category": "software_engineering",
+    "topic": "Documentation"
+  },
+  {
+    "query": "What am I studying or working with related to Software Architecture?",
+    "relevant_memory_ids": [
+      "b3ff7945-9e76-444d-8560-cd097b458e3d"
+    ],
+    "category": "software_engineering",
+    "topic": "Software Architecture"
+  }
+]

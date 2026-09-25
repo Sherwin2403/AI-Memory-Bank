@@ -1,0 +1,2236 @@
+[
+  {
+    "query": "Which technology or concept am I learning for general programming?",
+    "relevant_memory_ids": [
+      "4ff95772-3168-4872-8bda-1a381de2291e"
+    ],
+    "category": "programming",
+    "topic": "Python",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "What am I currently studying to support general programming?",
+    "relevant_memory_ids": [
+      "4ff95772-3168-4872-8bda-1a381de2291e"
+    ],
+    "category": "programming",
+    "topic": "Python",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which technology or concept am I learning for object-oriented programming?",
+    "relevant_memory_ids": [
+      "2c7d2e73-78e1-4019-b3d5-4d92c14ac6c8"
+    ],
+    "category": "programming",
+    "topic": "Java",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "What am I currently studying to support object-oriented programming?",
+    "relevant_memory_ids": [
+      "2c7d2e73-78e1-4019-b3d5-4d92c14ac6c8"
+    ],
+    "category": "programming",
+    "topic": "Java",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which area of my work is connected to object-oriented programming?",
+    "relevant_memory_ids": [
+      "2c7d2e73-78e1-4019-b3d5-4d92c14ac6c8"
+    ],
+    "category": "programming",
+    "topic": "Java",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which technology or concept am I learning for algorithmic programming?",
+    "relevant_memory_ids": [
+      "5b5b4fe9-119a-46e5-91f8-1c7e67b4b943"
+    ],
+    "category": "programming",
+    "topic": "C++",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "What am I currently studying to support algorithmic programming?",
+    "relevant_memory_ids": [
+      "5b5b4fe9-119a-46e5-91f8-1c7e67b4b943"
+    ],
+    "category": "programming",
+    "topic": "C++",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which area of my work is connected to algorithmic programming?",
+    "relevant_memory_ids": [
+      "5b5b4fe9-119a-46e5-91f8-1c7e67b4b943"
+    ],
+    "category": "programming",
+    "topic": "C++",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "What am I currently studying to support web development?",
+    "relevant_memory_ids": [
+      "7625d54f-0871-4c6c-86e3-902838686ec2"
+    ],
+    "category": "programming",
+    "topic": "JavaScript",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which area of my work is connected to web development?",
+    "relevant_memory_ids": [
+      "7625d54f-0871-4c6c-86e3-902838686ec2"
+    ],
+    "category": "programming",
+    "topic": "JavaScript",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which technology or concept am I learning for type-safe web applications?",
+    "relevant_memory_ids": [
+      "00431210-f142-4947-924f-6fbe0802b7d8"
+    ],
+    "category": "programming",
+    "topic": "TypeScript",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "What am I currently studying to support type-safe web applications?",
+    "relevant_memory_ids": [
+      "00431210-f142-4947-924f-6fbe0802b7d8"
+    ],
+    "category": "programming",
+    "topic": "TypeScript",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which area of my work is connected to type-safe web applications?",
+    "relevant_memory_ids": [
+      "00431210-f142-4947-924f-6fbe0802b7d8"
+    ],
+    "category": "programming",
+    "topic": "TypeScript",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "What am I currently studying to support low-level programming?",
+    "relevant_memory_ids": [
+      "1f4a35e9-0498-4c02-b11b-20997c8ba944"
+    ],
+    "category": "programming",
+    "topic": "C",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which area of my work is connected to low-level programming?",
+    "relevant_memory_ids": [
+      "1f4a35e9-0498-4c02-b11b-20997c8ba944"
+    ],
+    "category": "programming",
+    "topic": "C",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which area of my work is connected to relational database applications?",
+    "relevant_memory_ids": [
+      "54b056fe-2343-4828-9cc6-520bb2eb0817"
+    ],
+    "category": "databases",
+    "topic": "MySQL",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which technology or concept am I learning for document-oriented data storage?",
+    "relevant_memory_ids": [
+      "e25dec0f-5d3a-40ab-8216-84990d0cc58b"
+    ],
+    "category": "databases",
+    "topic": "MongoDB",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "What am I currently studying to support document-oriented data storage?",
+    "relevant_memory_ids": [
+      "e25dec0f-5d3a-40ab-8216-84990d0cc58b"
+    ],
+    "category": "databases",
+    "topic": "MongoDB",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which technology or concept am I learning for graph-based data management?",
+    "relevant_memory_ids": [
+      "54301f09-88d7-44e9-b57e-6c143e767b79"
+    ],
+    "category": "databases",
+    "topic": "Neo4j",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "What am I currently studying to support graph-based data management?",
+    "relevant_memory_ids": [
+      "54301f09-88d7-44e9-b57e-6c143e767b79"
+    ],
+    "category": "databases",
+    "topic": "Neo4j",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which area of my work is connected to graph-based data management?",
+    "relevant_memory_ids": [
+      "54301f09-88d7-44e9-b57e-6c143e767b79"
+    ],
+    "category": "databases",
+    "topic": "Neo4j",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which technology or concept am I learning for lightweight relational databases?",
+    "relevant_memory_ids": [
+      "973d2153-cea4-49ae-91db-ed4782575a80"
+    ],
+    "category": "databases",
+    "topic": "SQLite",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "What am I currently studying to support lightweight relational databases?",
+    "relevant_memory_ids": [
+      "973d2153-cea4-49ae-91db-ed4782575a80"
+    ],
+    "category": "databases",
+    "topic": "SQLite",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which technology or concept am I learning for distributed data storage?",
+    "relevant_memory_ids": [
+      "d57ad7ea-b419-498b-8654-66e2eef5a0fd"
+    ],
+    "category": "databases",
+    "topic": "Cassandra",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "What am I currently studying to support distributed data storage?",
+    "relevant_memory_ids": [
+      "d57ad7ea-b419-498b-8654-66e2eef5a0fd"
+    ],
+    "category": "databases",
+    "topic": "Cassandra",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which technology or concept am I learning for enterprise data management?",
+    "relevant_memory_ids": [
+      "062ffd91-a793-4b09-9317-01bde75cf8a2"
+    ],
+    "category": "databases",
+    "topic": "Oracle",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "What am I currently studying to support enterprise data management?",
+    "relevant_memory_ids": [
+      "062ffd91-a793-4b09-9317-01bde75cf8a2"
+    ],
+    "category": "databases",
+    "topic": "Oracle",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which area of my work is connected to enterprise data management?",
+    "relevant_memory_ids": [
+      "062ffd91-a793-4b09-9317-01bde75cf8a2"
+    ],
+    "category": "databases",
+    "topic": "Oracle",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which technology or concept am I learning for search-oriented data systems?",
+    "relevant_memory_ids": [
+      "f2321182-d5a8-4c0d-9b93-9067312ee1bd"
+    ],
+    "category": "databases",
+    "topic": "Elasticsearch",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "What am I currently studying to support search-oriented data systems?",
+    "relevant_memory_ids": [
+      "f2321182-d5a8-4c0d-9b93-9067312ee1bd"
+    ],
+    "category": "databases",
+    "topic": "Elasticsearch",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which area of my work is connected to search-oriented data systems?",
+    "relevant_memory_ids": [
+      "f2321182-d5a8-4c0d-9b93-9067312ee1bd"
+    ],
+    "category": "databases",
+    "topic": "Elasticsearch",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which technology or concept am I learning for predictive systems?",
+    "relevant_memory_ids": [
+      "a549a279-5feb-41fe-8d28-543c7138a0cf"
+    ],
+    "category": "artificial_intelligence",
+    "topic": "Machine Learning",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "What am I currently studying to support predictive systems?",
+    "relevant_memory_ids": [
+      "a549a279-5feb-41fe-8d28-543c7138a0cf"
+    ],
+    "category": "artificial_intelligence",
+    "topic": "Machine Learning",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which area of my work is connected to predictive systems?",
+    "relevant_memory_ids": [
+      "a549a279-5feb-41fe-8d28-543c7138a0cf"
+    ],
+    "category": "artificial_intelligence",
+    "topic": "Machine Learning",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which technology or concept am I learning for text analysis?",
+    "relevant_memory_ids": [
+      "d1e6edf1-2cac-4b69-8c5f-12865cd449a7"
+    ],
+    "category": "artificial_intelligence",
+    "topic": "Natural Language Processing",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "What am I currently studying to support text analysis?",
+    "relevant_memory_ids": [
+      "d1e6edf1-2cac-4b69-8c5f-12865cd449a7"
+    ],
+    "category": "artificial_intelligence",
+    "topic": "Natural Language Processing",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which area of my work is connected to text analysis?",
+    "relevant_memory_ids": [
+      "d1e6edf1-2cac-4b69-8c5f-12865cd449a7"
+    ],
+    "category": "artificial_intelligence",
+    "topic": "Natural Language Processing",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which technology or concept am I learning for image understanding?",
+    "relevant_memory_ids": [
+      "ba170c52-9222-4674-8af5-7bb0900e7b74"
+    ],
+    "category": "artificial_intelligence",
+    "topic": "Computer Vision",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "What am I currently studying to support image understanding?",
+    "relevant_memory_ids": [
+      "ba170c52-9222-4674-8af5-7bb0900e7b74"
+    ],
+    "category": "artificial_intelligence",
+    "topic": "Computer Vision",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which area of my work is connected to image understanding?",
+    "relevant_memory_ids": [
+      "ba170c52-9222-4674-8af5-7bb0900e7b74"
+    ],
+    "category": "artificial_intelligence",
+    "topic": "Computer Vision",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which technology or concept am I learning for complex pattern recognition?",
+    "relevant_memory_ids": [
+      "45c303a0-2192-4782-a3bc-60263c0ab4e0"
+    ],
+    "category": "artificial_intelligence",
+    "topic": "Deep Learning",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "What am I currently studying to support complex pattern recognition?",
+    "relevant_memory_ids": [
+      "45c303a0-2192-4782-a3bc-60263c0ab4e0"
+    ],
+    "category": "artificial_intelligence",
+    "topic": "Deep Learning",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which area of my work is connected to complex pattern recognition?",
+    "relevant_memory_ids": [
+      "45c303a0-2192-4782-a3bc-60263c0ab4e0"
+    ],
+    "category": "artificial_intelligence",
+    "topic": "Deep Learning",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which technology or concept am I learning for sequential decision making?",
+    "relevant_memory_ids": [
+      "682db722-ebbb-41c8-92a5-e8eb7b67b67a"
+    ],
+    "category": "artificial_intelligence",
+    "topic": "Reinforcement Learning",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "What am I currently studying to support sequential decision making?",
+    "relevant_memory_ids": [
+      "682db722-ebbb-41c8-92a5-e8eb7b67b67a"
+    ],
+    "category": "artificial_intelligence",
+    "topic": "Reinforcement Learning",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which area of my work is connected to sequential decision making?",
+    "relevant_memory_ids": [
+      "682db722-ebbb-41c8-92a5-e8eb7b67b67a"
+    ],
+    "category": "artificial_intelligence",
+    "topic": "Reinforcement Learning",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which technology or concept am I learning for modern AI systems?",
+    "relevant_memory_ids": [
+      "df96fb09-e5e1-4b12-8719-1bfbe87106b7"
+    ],
+    "category": "artificial_intelligence",
+    "topic": "Transformers",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "What am I currently studying to support modern AI systems?",
+    "relevant_memory_ids": [
+      "df96fb09-e5e1-4b12-8719-1bfbe87106b7"
+    ],
+    "category": "artificial_intelligence",
+    "topic": "Transformers",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which area of my work is connected to modern AI systems?",
+    "relevant_memory_ids": [
+      "df96fb09-e5e1-4b12-8719-1bfbe87106b7"
+    ],
+    "category": "artificial_intelligence",
+    "topic": "Transformers",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which technology or concept am I learning for content generation?",
+    "relevant_memory_ids": [
+      "399d7103-440f-47f8-9b5f-f33b218b4284"
+    ],
+    "category": "artificial_intelligence",
+    "topic": "Generative AI",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "What am I currently studying to support content generation?",
+    "relevant_memory_ids": [
+      "399d7103-440f-47f8-9b5f-f33b218b4284"
+    ],
+    "category": "artificial_intelligence",
+    "topic": "Generative AI",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which area of my work is connected to content generation?",
+    "relevant_memory_ids": [
+      "399d7103-440f-47f8-9b5f-f33b218b4284"
+    ],
+    "category": "artificial_intelligence",
+    "topic": "Generative AI",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which technology or concept am I learning for knowledge-aware AI?",
+    "relevant_memory_ids": [
+      "2dd20b11-b8b4-48e7-b4ad-54125cd793a6"
+    ],
+    "category": "artificial_intelligence",
+    "topic": "Retrieval Augmented Generation",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "What am I currently studying to support knowledge-aware AI?",
+    "relevant_memory_ids": [
+      "2dd20b11-b8b4-48e7-b4ad-54125cd793a6"
+    ],
+    "category": "artificial_intelligence",
+    "topic": "Retrieval Augmented Generation",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which area of my work is connected to knowledge-aware AI?",
+    "relevant_memory_ids": [
+      "2dd20b11-b8b4-48e7-b4ad-54125cd793a6"
+    ],
+    "category": "artificial_intelligence",
+    "topic": "Retrieval Augmented Generation",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which technology or concept am I learning for language-based applications?",
+    "relevant_memory_ids": [
+      "399c3bda-6a66-4b36-a8e2-0ddbd55cfc70"
+    ],
+    "category": "artificial_intelligence",
+    "topic": "Large Language Models",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "What am I currently studying to support language-based applications?",
+    "relevant_memory_ids": [
+      "399c3bda-6a66-4b36-a8e2-0ddbd55cfc70"
+    ],
+    "category": "artificial_intelligence",
+    "topic": "Large Language Models",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which area of my work is connected to language-based applications?",
+    "relevant_memory_ids": [
+      "399c3bda-6a66-4b36-a8e2-0ddbd55cfc70"
+    ],
+    "category": "artificial_intelligence",
+    "topic": "Large Language Models",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which technology or concept am I learning for semantic representation of information?",
+    "relevant_memory_ids": [
+      "c508ba05-0587-459b-a35d-c8531b5796e7"
+    ],
+    "category": "artificial_intelligence",
+    "topic": "Embeddings",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "What am I currently studying to support semantic representation of information?",
+    "relevant_memory_ids": [
+      "c508ba05-0587-459b-a35d-c8531b5796e7"
+    ],
+    "category": "artificial_intelligence",
+    "topic": "Embeddings",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which area of my work is connected to semantic representation of information?",
+    "relevant_memory_ids": [
+      "c508ba05-0587-459b-a35d-c8531b5796e7"
+    ],
+    "category": "artificial_intelligence",
+    "topic": "Embeddings",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which technology or concept am I learning for reliable network communication?",
+    "relevant_memory_ids": [
+      "25299eda-ef10-41b7-af72-8bed9457c949"
+    ],
+    "category": "networking",
+    "topic": "TCP",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "What am I currently studying to support reliable network communication?",
+    "relevant_memory_ids": [
+      "25299eda-ef10-41b7-af72-8bed9457c949"
+    ],
+    "category": "networking",
+    "topic": "TCP",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which area of my work is connected to reliable network communication?",
+    "relevant_memory_ids": [
+      "25299eda-ef10-41b7-af72-8bed9457c949"
+    ],
+    "category": "networking",
+    "topic": "TCP",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which technology or concept am I learning for connectionless network communication?",
+    "relevant_memory_ids": [
+      "22937109-0b71-4fc4-b08d-0d69b15c05c8"
+    ],
+    "category": "networking",
+    "topic": "UDP",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which technology or concept am I learning for domain name resolution?",
+    "relevant_memory_ids": [
+      "7ee6fee6-c025-49bc-bb8a-4f0d168f7458"
+    ],
+    "category": "networking",
+    "topic": "DNS",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "What am I currently studying to support domain name resolution?",
+    "relevant_memory_ids": [
+      "7ee6fee6-c025-49bc-bb8a-4f0d168f7458"
+    ],
+    "category": "networking",
+    "topic": "DNS",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which area of my work is connected to domain name resolution?",
+    "relevant_memory_ids": [
+      "7ee6fee6-c025-49bc-bb8a-4f0d168f7458"
+    ],
+    "category": "networking",
+    "topic": "DNS",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which technology or concept am I learning for automatic network configuration?",
+    "relevant_memory_ids": [
+      "32a66d21-6270-4e7b-97b6-57683c9102b7"
+    ],
+    "category": "networking",
+    "topic": "DHCP",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "What am I currently studying to support automatic network configuration?",
+    "relevant_memory_ids": [
+      "32a66d21-6270-4e7b-97b6-57683c9102b7"
+    ],
+    "category": "networking",
+    "topic": "DHCP",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which area of my work is connected to automatic network configuration?",
+    "relevant_memory_ids": [
+      "32a66d21-6270-4e7b-97b6-57683c9102b7"
+    ],
+    "category": "networking",
+    "topic": "DHCP",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which technology or concept am I learning for mapping IP addresses to hardware addresses?",
+    "relevant_memory_ids": [
+      "daa8023e-346e-41a1-bfa0-938d29052cd4"
+    ],
+    "category": "networking",
+    "topic": "ARP",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "What am I currently studying to support mapping IP addresses to hardware addresses?",
+    "relevant_memory_ids": [
+      "daa8023e-346e-41a1-bfa0-938d29052cd4"
+    ],
+    "category": "networking",
+    "topic": "ARP",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which area of my work is connected to mapping IP addresses to hardware addresses?",
+    "relevant_memory_ids": [
+      "daa8023e-346e-41a1-bfa0-938d29052cd4"
+    ],
+    "category": "networking",
+    "topic": "ARP",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which technology or concept am I learning for network diagnostics and control messages?",
+    "relevant_memory_ids": [
+      "03682eab-8995-43b3-b4ab-05507497b204"
+    ],
+    "category": "networking",
+    "topic": "ICMP",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "What am I currently studying to support network diagnostics and control messages?",
+    "relevant_memory_ids": [
+      "03682eab-8995-43b3-b4ab-05507497b204"
+    ],
+    "category": "networking",
+    "topic": "ICMP",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which area of my work is connected to network diagnostics and control messages?",
+    "relevant_memory_ids": [
+      "03682eab-8995-43b3-b4ab-05507497b204"
+    ],
+    "category": "networking",
+    "topic": "ICMP",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which technology or concept am I learning for packet reassembly?",
+    "relevant_memory_ids": [
+      "cd7d0baf-4679-44a3-8ec8-df835f95f6cb"
+    ],
+    "category": "networking",
+    "topic": "IP fragmentation",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "What am I currently studying to support packet reassembly?",
+    "relevant_memory_ids": [
+      "cd7d0baf-4679-44a3-8ec8-df835f95f6cb"
+    ],
+    "category": "networking",
+    "topic": "IP fragmentation",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which area of my work is connected to packet reassembly?",
+    "relevant_memory_ids": [
+      "cd7d0baf-4679-44a3-8ec8-df835f95f6cb"
+    ],
+    "category": "networking",
+    "topic": "IP fragmentation",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which technology or concept am I learning for forwarding packets between networks?",
+    "relevant_memory_ids": [
+      "092c8c59-c6a4-4a45-b781-84a74dd3ad6f"
+    ],
+    "category": "networking",
+    "topic": "Routing",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "What am I currently studying to support forwarding packets between networks?",
+    "relevant_memory_ids": [
+      "092c8c59-c6a4-4a45-b781-84a74dd3ad6f"
+    ],
+    "category": "networking",
+    "topic": "Routing",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which area of my work is connected to forwarding packets between networks?",
+    "relevant_memory_ids": [
+      "092c8c59-c6a4-4a45-b781-84a74dd3ad6f"
+    ],
+    "category": "networking",
+    "topic": "Routing",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which technology or concept am I learning for organizing IP networks?",
+    "relevant_memory_ids": [
+      "9216b977-b3e2-4d2a-9b2d-5c59d8c4f4a7"
+    ],
+    "category": "networking",
+    "topic": "Subnetting",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "What am I currently studying to support organizing IP networks?",
+    "relevant_memory_ids": [
+      "9216b977-b3e2-4d2a-9b2d-5c59d8c4f4a7"
+    ],
+    "category": "networking",
+    "topic": "Subnetting",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which area of my work is connected to organizing IP networks?",
+    "relevant_memory_ids": [
+      "9216b977-b3e2-4d2a-9b2d-5c59d8c4f4a7"
+    ],
+    "category": "networking",
+    "topic": "Subnetting",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which technology or concept am I learning for communication between web clients and servers?",
+    "relevant_memory_ids": [
+      "5f11754e-191c-4fc0-afd9-9dabe87fa018"
+    ],
+    "category": "networking",
+    "topic": "HTTP",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "What am I currently studying to support communication between web clients and servers?",
+    "relevant_memory_ids": [
+      "5f11754e-191c-4fc0-afd9-9dabe87fa018"
+    ],
+    "category": "networking",
+    "topic": "HTTP",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which area of my work is connected to communication between web clients and servers?",
+    "relevant_memory_ids": [
+      "5f11754e-191c-4fc0-afd9-9dabe87fa018"
+    ],
+    "category": "networking",
+    "topic": "HTTP",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which technology or concept am I learning for lightweight Python web applications?",
+    "relevant_memory_ids": [
+      "d770997c-1fcf-45ad-b5a9-3b21bd249c98"
+    ],
+    "category": "backend",
+    "topic": "Flask",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "What am I currently studying to support lightweight Python web applications?",
+    "relevant_memory_ids": [
+      "d770997c-1fcf-45ad-b5a9-3b21bd249c98"
+    ],
+    "category": "backend",
+    "topic": "Flask",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "What am I currently studying to support full-stack Python web development?",
+    "relevant_memory_ids": [
+      "619895e6-f69a-4b83-8881-a67396d38939"
+    ],
+    "category": "backend",
+    "topic": "Django",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which area of my work is connected to full-stack Python web development?",
+    "relevant_memory_ids": [
+      "619895e6-f69a-4b83-8881-a67396d38939"
+    ],
+    "category": "backend",
+    "topic": "Django",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "What am I currently studying to support server-side JavaScript applications?",
+    "relevant_memory_ids": [
+      "2cfd4dc7-9c31-436a-a514-d215cbecfdb6"
+    ],
+    "category": "backend",
+    "topic": "Node.js",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which area of my work is connected to server-side JavaScript applications?",
+    "relevant_memory_ids": [
+      "2cfd4dc7-9c31-436a-a514-d215cbecfdb6"
+    ],
+    "category": "backend",
+    "topic": "Node.js",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which technology or concept am I learning for service-to-service communication?",
+    "relevant_memory_ids": [
+      "550d8780-9534-4eea-9444-b044ac092c15"
+    ],
+    "category": "backend",
+    "topic": "REST API",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "What am I currently studying to support service-to-service communication?",
+    "relevant_memory_ids": [
+      "550d8780-9534-4eea-9444-b044ac092c15"
+    ],
+    "category": "backend",
+    "topic": "REST API",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which area of my work is connected to service-to-service communication?",
+    "relevant_memory_ids": [
+      "550d8780-9534-4eea-9444-b044ac092c15"
+    ],
+    "category": "backend",
+    "topic": "REST API",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which technology or concept am I learning for containerized application development?",
+    "relevant_memory_ids": [
+      "ae41a97b-855d-473d-8409-a50046724e12"
+    ],
+    "category": "backend",
+    "topic": "Docker",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "What am I currently studying to support containerized application development?",
+    "relevant_memory_ids": [
+      "ae41a97b-855d-473d-8409-a50046724e12"
+    ],
+    "category": "backend",
+    "topic": "Docker",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which area of my work is connected to containerized application development?",
+    "relevant_memory_ids": [
+      "ae41a97b-855d-473d-8409-a50046724e12"
+    ],
+    "category": "backend",
+    "topic": "Docker",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which area of my work is connected to serve Python web applications?",
+    "relevant_memory_ids": [
+      "ae01b171-27dc-487f-8575-985cc09beabc"
+    ],
+    "category": "backend",
+    "topic": "Uvicorn",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which technology or concept am I learning for data validation in Python applications?",
+    "relevant_memory_ids": [
+      "6192e387-f1cd-441b-b811-6abb40501754"
+    ],
+    "category": "backend",
+    "topic": "Pydantic",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "What am I currently studying to support data validation in Python applications?",
+    "relevant_memory_ids": [
+      "6192e387-f1cd-441b-b811-6abb40501754"
+    ],
+    "category": "backend",
+    "topic": "Pydantic",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which area of my work is connected to data validation in Python applications?",
+    "relevant_memory_ids": [
+      "6192e387-f1cd-441b-b811-6abb40501754"
+    ],
+    "category": "backend",
+    "topic": "Pydantic",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which technology or concept am I learning for API authentication?",
+    "relevant_memory_ids": [
+      "26f31001-6e0b-45d0-8be7-7b6e20906d7f"
+    ],
+    "category": "backend",
+    "topic": "JWT",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "What am I currently studying to support API authentication?",
+    "relevant_memory_ids": [
+      "26f31001-6e0b-45d0-8be7-7b6e20906d7f"
+    ],
+    "category": "backend",
+    "topic": "JWT",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which technology or concept am I learning for distributed backend architectures?",
+    "relevant_memory_ids": [
+      "852473b9-5b6c-451a-8234-487a1088abf6"
+    ],
+    "category": "backend",
+    "topic": "Microservices",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "What am I currently studying to support distributed backend architectures?",
+    "relevant_memory_ids": [
+      "852473b9-5b6c-451a-8234-487a1088abf6"
+    ],
+    "category": "backend",
+    "topic": "Microservices",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which area of my work is connected to distributed backend architectures?",
+    "relevant_memory_ids": [
+      "852473b9-5b6c-451a-8234-487a1088abf6"
+    ],
+    "category": "backend",
+    "topic": "Microservices",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which area of my work is connected to cloud infrastructure?",
+    "relevant_memory_ids": [
+      "b10aef45-4a70-428e-9fa2-0172b3d832c5"
+    ],
+    "category": "cloud_devops",
+    "topic": "Google Cloud",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which technology or concept am I learning for container orchestration?",
+    "relevant_memory_ids": [
+      "ddfeb790-8a65-4bcb-b695-13912b881aac"
+    ],
+    "category": "cloud_devops",
+    "topic": "Kubernetes",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "What am I currently studying to support container orchestration?",
+    "relevant_memory_ids": [
+      "ddfeb790-8a65-4bcb-b695-13912b881aac"
+    ],
+    "category": "cloud_devops",
+    "topic": "Kubernetes",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which area of my work is connected to container orchestration?",
+    "relevant_memory_ids": [
+      "ddfeb790-8a65-4bcb-b695-13912b881aac"
+    ],
+    "category": "cloud_devops",
+    "topic": "Kubernetes",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which technology or concept am I learning for automated software delivery?",
+    "relevant_memory_ids": [
+      "f3257ad0-002d-4c25-8433-637950242d22"
+    ],
+    "category": "cloud_devops",
+    "topic": "CI/CD",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "What am I currently studying to support automated software delivery?",
+    "relevant_memory_ids": [
+      "f3257ad0-002d-4c25-8433-637950242d22"
+    ],
+    "category": "cloud_devops",
+    "topic": "CI/CD",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which area of my work is connected to automated software delivery?",
+    "relevant_memory_ids": [
+      "f3257ad0-002d-4c25-8433-637950242d22"
+    ],
+    "category": "cloud_devops",
+    "topic": "CI/CD",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "What am I currently studying to support workflow automation?",
+    "relevant_memory_ids": [
+      "0b30dc71-a6fc-40e4-ac4a-05b1ea4be74b"
+    ],
+    "category": "cloud_devops",
+    "topic": "GitHub Actions",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which area of my work is connected to workflow automation?",
+    "relevant_memory_ids": [
+      "0b30dc71-a6fc-40e4-ac4a-05b1ea4be74b"
+    ],
+    "category": "cloud_devops",
+    "topic": "GitHub Actions",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "What am I currently studying to support server and development environments?",
+    "relevant_memory_ids": [
+      "97743d06-2540-4b0c-b334-ccefd425b4ec"
+    ],
+    "category": "cloud_devops",
+    "topic": "Linux",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which area of my work is connected to server and development environments?",
+    "relevant_memory_ids": [
+      "97743d06-2540-4b0c-b334-ccefd425b4ec"
+    ],
+    "category": "cloud_devops",
+    "topic": "Linux",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "What am I currently studying to support web serving and reverse proxying?",
+    "relevant_memory_ids": [
+      "4de2571f-61e6-4683-ab74-1ed7b0700470"
+    ],
+    "category": "cloud_devops",
+    "topic": "Nginx",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which area of my work is connected to web serving and reverse proxying?",
+    "relevant_memory_ids": [
+      "4de2571f-61e6-4683-ab74-1ed7b0700470"
+    ],
+    "category": "cloud_devops",
+    "topic": "Nginx",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which technology or concept am I learning for reliable services?",
+    "relevant_memory_ids": [
+      "d0d1776c-18c3-4e6c-bd3a-59ad0c257e77"
+    ],
+    "category": "cloud_devops",
+    "topic": "Monitoring",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "What am I currently studying to support reliable services?",
+    "relevant_memory_ids": [
+      "d0d1776c-18c3-4e6c-bd3a-59ad0c257e77"
+    ],
+    "category": "cloud_devops",
+    "topic": "Monitoring",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which area of my work is connected to reliable services?",
+    "relevant_memory_ids": [
+      "d0d1776c-18c3-4e6c-bd3a-59ad0c257e77"
+    ],
+    "category": "cloud_devops",
+    "topic": "Monitoring",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which technology or concept am I learning for system resource management?",
+    "relevant_memory_ids": [
+      "76593ead-0f79-4608-8209-4f02d94c038a"
+    ],
+    "category": "systems",
+    "topic": "Operating Systems",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "What am I currently studying to support system resource management?",
+    "relevant_memory_ids": [
+      "76593ead-0f79-4608-8209-4f02d94c038a"
+    ],
+    "category": "systems",
+    "topic": "Operating Systems",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which area of my work is connected to system resource management?",
+    "relevant_memory_ids": [
+      "76593ead-0f79-4608-8209-4f02d94c038a"
+    ],
+    "category": "systems",
+    "topic": "Operating Systems",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which technology or concept am I learning for Processes?",
+    "relevant_memory_ids": [
+      "1b5a42d6-8b6a-4662-a243-0242249c5f15"
+    ],
+    "category": "systems",
+    "topic": "Processes",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "What am I currently studying to support Processes?",
+    "relevant_memory_ids": [
+      "1b5a42d6-8b6a-4662-a243-0242249c5f15"
+    ],
+    "category": "systems",
+    "topic": "Processes",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which technology or concept am I learning for memory management?",
+    "relevant_memory_ids": [
+      "5e08ae68-e18f-4c2b-b0ab-f0f6bbcf5ea2"
+    ],
+    "category": "systems",
+    "topic": "Virtual Memory",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "What am I currently studying to support memory management?",
+    "relevant_memory_ids": [
+      "5e08ae68-e18f-4c2b-b0ab-f0f6bbcf5ea2"
+    ],
+    "category": "systems",
+    "topic": "Virtual Memory",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which area of my work is connected to memory management?",
+    "relevant_memory_ids": [
+      "5e08ae68-e18f-4c2b-b0ab-f0f6bbcf5ea2"
+    ],
+    "category": "systems",
+    "topic": "Virtual Memory",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which technology or concept am I learning for persistent storage?",
+    "relevant_memory_ids": [
+      "6bf7fa86-8d9a-4beb-b05f-62e08521fed6"
+    ],
+    "category": "systems",
+    "topic": "File Systems",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "What am I currently studying to support persistent storage?",
+    "relevant_memory_ids": [
+      "6bf7fa86-8d9a-4beb-b05f-62e08521fed6"
+    ],
+    "category": "systems",
+    "topic": "File Systems",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which area of my work is connected to persistent storage?",
+    "relevant_memory_ids": [
+      "6bf7fa86-8d9a-4beb-b05f-62e08521fed6"
+    ],
+    "category": "systems",
+    "topic": "File Systems",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which technology or concept am I learning for Scheduling?",
+    "relevant_memory_ids": [
+      "0e0f564c-0e5f-4f62-be87-77d0f6ad8aef"
+    ],
+    "category": "systems",
+    "topic": "Scheduling",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "What am I currently studying to support Scheduling?",
+    "relevant_memory_ids": [
+      "0e0f564c-0e5f-4f62-be87-77d0f6ad8aef"
+    ],
+    "category": "systems",
+    "topic": "Scheduling",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which area of my work is connected to Scheduling?",
+    "relevant_memory_ids": [
+      "0e0f564c-0e5f-4f62-be87-77d0f6ad8aef"
+    ],
+    "category": "systems",
+    "topic": "Scheduling",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which technology or concept am I learning for synchronization?",
+    "relevant_memory_ids": [
+      "71bb8a5a-197e-4f37-a60a-dcac6cf38007"
+    ],
+    "category": "systems",
+    "topic": "Deadlocks",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "What am I currently studying to support synchronization?",
+    "relevant_memory_ids": [
+      "71bb8a5a-197e-4f37-a60a-dcac6cf38007"
+    ],
+    "category": "systems",
+    "topic": "Deadlocks",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which area of my work is connected to synchronization?",
+    "relevant_memory_ids": [
+      "71bb8a5a-197e-4f37-a60a-dcac6cf38007"
+    ],
+    "category": "systems",
+    "topic": "Deadlocks",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which technology or concept am I learning for coordination?",
+    "relevant_memory_ids": [
+      "cda49219-978d-49de-a08d-9c55eb972f7e"
+    ],
+    "category": "systems",
+    "topic": "Distributed Systems",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "What am I currently studying to support coordination?",
+    "relevant_memory_ids": [
+      "cda49219-978d-49de-a08d-9c55eb972f7e"
+    ],
+    "category": "systems",
+    "topic": "Distributed Systems",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which area of my work is connected to coordination?",
+    "relevant_memory_ids": [
+      "cda49219-978d-49de-a08d-9c55eb972f7e"
+    ],
+    "category": "systems",
+    "topic": "Distributed Systems",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which technology or concept am I learning for Concurrency?",
+    "relevant_memory_ids": [
+      "3d293671-9cec-4510-8494-3ee38e83dab5"
+    ],
+    "category": "systems",
+    "topic": "Concurrency",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "What am I currently studying to support Concurrency?",
+    "relevant_memory_ids": [
+      "3d293671-9cec-4510-8494-3ee38e83dab5"
+    ],
+    "category": "systems",
+    "topic": "Concurrency",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which area of my work is connected to Concurrency?",
+    "relevant_memory_ids": [
+      "3d293671-9cec-4510-8494-3ee38e83dab5"
+    ],
+    "category": "systems",
+    "topic": "Concurrency",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which technology or concept am I learning for processor design?",
+    "relevant_memory_ids": [
+      "34bc6f06-8d97-4384-a35b-8a61d0be23f5"
+    ],
+    "category": "systems",
+    "topic": "Computer Architecture",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "What am I currently studying to support processor design?",
+    "relevant_memory_ids": [
+      "34bc6f06-8d97-4384-a35b-8a61d0be23f5"
+    ],
+    "category": "systems",
+    "topic": "Computer Architecture",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which area of my work is connected to processor design?",
+    "relevant_memory_ids": [
+      "34bc6f06-8d97-4384-a35b-8a61d0be23f5"
+    ],
+    "category": "systems",
+    "topic": "Computer Architecture",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which technology or concept am I learning for extracting useful patterns?",
+    "relevant_memory_ids": [
+      "896bae3b-ae14-4a35-a36e-10da4e376990"
+    ],
+    "category": "data_science",
+    "topic": "Data Mining",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "What am I currently studying to support extracting useful patterns?",
+    "relevant_memory_ids": [
+      "896bae3b-ae14-4a35-a36e-10da4e376990"
+    ],
+    "category": "data_science",
+    "topic": "Data Mining",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which area of my work is connected to extracting useful patterns?",
+    "relevant_memory_ids": [
+      "896bae3b-ae14-4a35-a36e-10da4e376990"
+    ],
+    "category": "data_science",
+    "topic": "Data Mining",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which technology or concept am I learning for dimensionality reduction?",
+    "relevant_memory_ids": [
+      "70279e29-feab-4e75-bb31-832b83373373"
+    ],
+    "category": "data_science",
+    "topic": "PCA",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "What am I currently studying to support dimensionality reduction?",
+    "relevant_memory_ids": [
+      "70279e29-feab-4e75-bb31-832b83373373"
+    ],
+    "category": "data_science",
+    "topic": "PCA",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which area of my work is connected to dimensionality reduction?",
+    "relevant_memory_ids": [
+      "70279e29-feab-4e75-bb31-832b83373373"
+    ],
+    "category": "data_science",
+    "topic": "PCA",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which technology or concept am I learning for grouping similar data?",
+    "relevant_memory_ids": [
+      "e48fd829-0603-44af-8278-521a1700046c"
+    ],
+    "category": "data_science",
+    "topic": "Clustering",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "What am I currently studying to support grouping similar data?",
+    "relevant_memory_ids": [
+      "e48fd829-0603-44af-8278-521a1700046c"
+    ],
+    "category": "data_science",
+    "topic": "Clustering",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which area of my work is connected to grouping similar data?",
+    "relevant_memory_ids": [
+      "e48fd829-0603-44af-8278-521a1700046c"
+    ],
+    "category": "data_science",
+    "topic": "Clustering",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which technology or concept am I learning for K-Means?",
+    "relevant_memory_ids": [
+      "17413b7b-ca94-4b72-bcfb-a692a5f42bf0"
+    ],
+    "category": "data_science",
+    "topic": "K-Means",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "What am I currently studying to support K-Means?",
+    "relevant_memory_ids": [
+      "17413b7b-ca94-4b72-bcfb-a692a5f42bf0"
+    ],
+    "category": "data_science",
+    "topic": "K-Means",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which area of my work is connected to K-Means?",
+    "relevant_memory_ids": [
+      "17413b7b-ca94-4b72-bcfb-a692a5f42bf0"
+    ],
+    "category": "data_science",
+    "topic": "K-Means",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which technology or concept am I learning for supervised learning?",
+    "relevant_memory_ids": [
+      "f99eaee3-ba48-4ed0-ab75-f50e3df9c3ab"
+    ],
+    "category": "data_science",
+    "topic": "Classification",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "What am I currently studying to support supervised learning?",
+    "relevant_memory_ids": [
+      "f99eaee3-ba48-4ed0-ab75-f50e3df9c3ab"
+    ],
+    "category": "data_science",
+    "topic": "Classification",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which area of my work is connected to supervised learning?",
+    "relevant_memory_ids": [
+      "f99eaee3-ba48-4ed0-ab75-f50e3df9c3ab"
+    ],
+    "category": "data_science",
+    "topic": "Classification",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which technology or concept am I learning for ensemble learning?",
+    "relevant_memory_ids": [
+      "21a8c9f0-0769-49ff-aff2-9fb52c946e3c"
+    ],
+    "category": "data_science",
+    "topic": "Random Forest",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "What am I currently studying to support ensemble learning?",
+    "relevant_memory_ids": [
+      "21a8c9f0-0769-49ff-aff2-9fb52c946e3c"
+    ],
+    "category": "data_science",
+    "topic": "Random Forest",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which area of my work is connected to ensemble learning?",
+    "relevant_memory_ids": [
+      "21a8c9f0-0769-49ff-aff2-9fb52c946e3c"
+    ],
+    "category": "data_science",
+    "topic": "Random Forest",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which technology or concept am I learning for exploratory analysis?",
+    "relevant_memory_ids": [
+      "2d50b0e0-edbc-49d9-be3a-ea3476218b05"
+    ],
+    "category": "data_science",
+    "topic": "Data Visualization",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "What am I currently studying to support exploratory analysis?",
+    "relevant_memory_ids": [
+      "2d50b0e0-edbc-49d9-be3a-ea3476218b05"
+    ],
+    "category": "data_science",
+    "topic": "Data Visualization",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which area of my work is connected to exploratory analysis?",
+    "relevant_memory_ids": [
+      "2d50b0e0-edbc-49d9-be3a-ea3476218b05"
+    ],
+    "category": "data_science",
+    "topic": "Data Visualization",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which technology or concept am I learning for consistency?",
+    "relevant_memory_ids": [
+      "5acb0fd7-e4ad-49f4-b058-d7d8419a7875"
+    ],
+    "category": "dbms",
+    "topic": "Transactions",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "What am I currently studying to support consistency?",
+    "relevant_memory_ids": [
+      "5acb0fd7-e4ad-49f4-b058-d7d8419a7875"
+    ],
+    "category": "dbms",
+    "topic": "Transactions",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which technology or concept am I learning for ACID?",
+    "relevant_memory_ids": [
+      "e18e7f19-187f-4249-a9cc-3fbe1db8556f"
+    ],
+    "category": "dbms",
+    "topic": "ACID",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "What am I currently studying to support ACID?",
+    "relevant_memory_ids": [
+      "e18e7f19-187f-4249-a9cc-3fbe1db8556f"
+    ],
+    "category": "dbms",
+    "topic": "ACID",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which area of my work is connected to ACID?",
+    "relevant_memory_ids": [
+      "e18e7f19-187f-4249-a9cc-3fbe1db8556f"
+    ],
+    "category": "dbms",
+    "topic": "ACID",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which technology or concept am I learning for B-Trees?",
+    "relevant_memory_ids": [
+      "94932864-9052-4e1c-b8ee-784ca2b7d4cf"
+    ],
+    "category": "dbms",
+    "topic": "B-Trees",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "What am I currently studying to support B-Trees?",
+    "relevant_memory_ids": [
+      "94932864-9052-4e1c-b8ee-784ca2b7d4cf"
+    ],
+    "category": "dbms",
+    "topic": "B-Trees",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which area of my work is connected to B-Trees?",
+    "relevant_memory_ids": [
+      "94932864-9052-4e1c-b8ee-784ca2b7d4cf"
+    ],
+    "category": "dbms",
+    "topic": "B-Trees",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which technology or concept am I learning for efficient vector similarity search?",
+    "relevant_memory_ids": [
+      "c3d68b1d-7661-4e03-bfb3-45b4b6a7c348"
+    ],
+    "category": "dbms",
+    "topic": "HNSW",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "What am I currently studying to support efficient vector similarity search?",
+    "relevant_memory_ids": [
+      "c3d68b1d-7661-4e03-bfb3-45b4b6a7c348"
+    ],
+    "category": "dbms",
+    "topic": "HNSW",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which area of my work is connected to efficient vector similarity search?",
+    "relevant_memory_ids": [
+      "c3d68b1d-7661-4e03-bfb3-45b4b6a7c348"
+    ],
+    "category": "dbms",
+    "topic": "HNSW",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which technology or concept am I learning for combining relational data?",
+    "relevant_memory_ids": [
+      "c375c8a6-6364-4d57-a063-3eef2f48194f"
+    ],
+    "category": "dbms",
+    "topic": "SQL joins",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "What am I currently studying to support combining relational data?",
+    "relevant_memory_ids": [
+      "c375c8a6-6364-4d57-a063-3eef2f48194f"
+    ],
+    "category": "dbms",
+    "topic": "SQL joins",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which area of my work is connected to combining relational data?",
+    "relevant_memory_ids": [
+      "c375c8a6-6364-4d57-a063-3eef2f48194f"
+    ],
+    "category": "dbms",
+    "topic": "SQL joins",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "What am I currently studying to support efficient database execution?",
+    "relevant_memory_ids": [
+      "96b76a47-773b-486b-a537-613f09cb3d51"
+    ],
+    "category": "dbms",
+    "topic": "Query Optimization",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which area of my work is connected to efficient database execution?",
+    "relevant_memory_ids": [
+      "96b76a47-773b-486b-a537-613f09cb3d51"
+    ],
+    "category": "dbms",
+    "topic": "Query Optimization",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which technology or concept am I learning for availability and scalability?",
+    "relevant_memory_ids": [
+      "e34dee80-3718-4de0-8881-93f3bf0bcea0"
+    ],
+    "category": "dbms",
+    "topic": "Replication",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "What am I currently studying to support availability and scalability?",
+    "relevant_memory_ids": [
+      "e34dee80-3718-4de0-8881-93f3bf0bcea0"
+    ],
+    "category": "dbms",
+    "topic": "Replication",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which area of my work is connected to availability and scalability?",
+    "relevant_memory_ids": [
+      "e34dee80-3718-4de0-8881-93f3bf0bcea0"
+    ],
+    "category": "dbms",
+    "topic": "Replication",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which technology or concept am I learning for version control?",
+    "relevant_memory_ids": [
+      "41eef542-0e35-4004-87ce-fc25a470e2e1"
+    ],
+    "category": "software_engineering",
+    "topic": "Git",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "What am I currently studying to support version control?",
+    "relevant_memory_ids": [
+      "41eef542-0e35-4004-87ce-fc25a470e2e1"
+    ],
+    "category": "software_engineering",
+    "topic": "Git",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which area of my work is connected to version control?",
+    "relevant_memory_ids": [
+      "41eef542-0e35-4004-87ce-fc25a470e2e1"
+    ],
+    "category": "software_engineering",
+    "topic": "Git",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which area of my work is connected to collaborative software development?",
+    "relevant_memory_ids": [
+      "662a6205-bbc5-4255-9684-41c74e129ae7"
+    ],
+    "category": "software_engineering",
+    "topic": "GitHub",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which technology or concept am I learning for Debugging?",
+    "relevant_memory_ids": [
+      "4c4ca617-9f58-4e96-843c-9965c6d3fcba"
+    ],
+    "category": "software_engineering",
+    "topic": "Debugging",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "What am I currently studying to support Debugging?",
+    "relevant_memory_ids": [
+      "4c4ca617-9f58-4e96-843c-9965c6d3fcba"
+    ],
+    "category": "software_engineering",
+    "topic": "Debugging",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which area of my work is connected to Debugging?",
+    "relevant_memory_ids": [
+      "4c4ca617-9f58-4e96-843c-9965c6d3fcba"
+    ],
+    "category": "software_engineering",
+    "topic": "Debugging",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which technology or concept am I learning for Agile?",
+    "relevant_memory_ids": [
+      "e60eb8c6-b08f-48cc-abb7-6900dc396035"
+    ],
+    "category": "software_engineering",
+    "topic": "Agile",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "What am I currently studying to support Agile?",
+    "relevant_memory_ids": [
+      "e60eb8c6-b08f-48cc-abb7-6900dc396035"
+    ],
+    "category": "software_engineering",
+    "topic": "Agile",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which area of my work is connected to Agile?",
+    "relevant_memory_ids": [
+      "e60eb8c6-b08f-48cc-abb7-6900dc396035"
+    ],
+    "category": "software_engineering",
+    "topic": "Agile",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which technology or concept am I learning for Design Patterns?",
+    "relevant_memory_ids": [
+      "e56aaaa4-fbfa-4a74-9374-02a4f76e602f"
+    ],
+    "category": "software_engineering",
+    "topic": "Design Patterns",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "What am I currently studying to support Design Patterns?",
+    "relevant_memory_ids": [
+      "e56aaaa4-fbfa-4a74-9374-02a4f76e602f"
+    ],
+    "category": "software_engineering",
+    "topic": "Design Patterns",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which area of my work is connected to Design Patterns?",
+    "relevant_memory_ids": [
+      "e56aaaa4-fbfa-4a74-9374-02a4f76e602f"
+    ],
+    "category": "software_engineering",
+    "topic": "Design Patterns",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which technology or concept am I learning for Clean Code?",
+    "relevant_memory_ids": [
+      "84db661c-6c92-4bce-b166-1e6af58ad8ba"
+    ],
+    "category": "software_engineering",
+    "topic": "Clean Code",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "What am I currently studying to support Clean Code?",
+    "relevant_memory_ids": [
+      "84db661c-6c92-4bce-b166-1e6af58ad8ba"
+    ],
+    "category": "software_engineering",
+    "topic": "Clean Code",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which area of my work is connected to Clean Code?",
+    "relevant_memory_ids": [
+      "84db661c-6c92-4bce-b166-1e6af58ad8ba"
+    ],
+    "category": "software_engineering",
+    "topic": "Clean Code",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which technology or concept am I learning for Code Review?",
+    "relevant_memory_ids": [
+      "c51b6b6b-399d-4e74-8f47-f40af835766f"
+    ],
+    "category": "software_engineering",
+    "topic": "Code Review",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "What am I currently studying to support Code Review?",
+    "relevant_memory_ids": [
+      "c51b6b6b-399d-4e74-8f47-f40af835766f"
+    ],
+    "category": "software_engineering",
+    "topic": "Code Review",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which area of my work is connected to Code Review?",
+    "relevant_memory_ids": [
+      "c51b6b6b-399d-4e74-8f47-f40af835766f"
+    ],
+    "category": "software_engineering",
+    "topic": "Code Review",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which technology or concept am I learning for Documentation?",
+    "relevant_memory_ids": [
+      "a953ed5a-7f6a-4a01-95a5-6849d390163d"
+    ],
+    "category": "software_engineering",
+    "topic": "Documentation",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "What am I currently studying to support Documentation?",
+    "relevant_memory_ids": [
+      "a953ed5a-7f6a-4a01-95a5-6849d390163d"
+    ],
+    "category": "software_engineering",
+    "topic": "Documentation",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which area of my work is connected to Documentation?",
+    "relevant_memory_ids": [
+      "a953ed5a-7f6a-4a01-95a5-6849d390163d"
+    ],
+    "category": "software_engineering",
+    "topic": "Documentation",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which technology or concept am I learning for system design?",
+    "relevant_memory_ids": [
+      "b3ff7945-9e76-444d-8560-cd097b458e3d"
+    ],
+    "category": "software_engineering",
+    "topic": "Software Architecture",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "What am I currently studying to support system design?",
+    "relevant_memory_ids": [
+      "b3ff7945-9e76-444d-8560-cd097b458e3d"
+    ],
+    "category": "software_engineering",
+    "topic": "Software Architecture",
+    "type": "purpose_paraphrase"
+  },
+  {
+    "query": "Which two areas am I working with that relate to general programming and object-oriented programming?",
+    "relevant_memory_ids": [
+      "4ff95772-3168-4872-8bda-1a381de2291e",
+      "2c7d2e73-78e1-4019-b3d5-4d92c14ac6c8"
+    ],
+    "category": "programming",
+    "topic": "Python + Java",
+    "type": "multi_memory"
+  },
+  {
+    "query": "Which two areas am I working with that relate to type-safe web applications and low-level programming?",
+    "relevant_memory_ids": [
+      "00431210-f142-4947-924f-6fbe0802b7d8",
+      "1f4a35e9-0498-4c02-b11b-20997c8ba944"
+    ],
+    "category": "programming",
+    "topic": "TypeScript + C",
+    "type": "multi_memory"
+  },
+  {
+    "query": "Which two areas am I working with that relate to relational database management and relational database applications?",
+    "relevant_memory_ids": [
+      "59eb3a77-263b-42c7-b23c-b2ac51f0a14f",
+      "54b056fe-2343-4828-9cc6-520bb2eb0817"
+    ],
+    "category": "databases",
+    "topic": "PostgreSQL + MySQL",
+    "type": "multi_memory"
+  },
+  {
+    "query": "Which two areas am I working with that relate to document-oriented data storage and graph-based data management?",
+    "relevant_memory_ids": [
+      "e25dec0f-5d3a-40ab-8216-84990d0cc58b",
+      "54301f09-88d7-44e9-b57e-6c143e767b79"
+    ],
+    "category": "databases",
+    "topic": "MongoDB + Neo4j",
+    "type": "multi_memory"
+  },
+  {
+    "query": "Which two areas am I working with that relate to distributed data storage and enterprise data management?",
+    "relevant_memory_ids": [
+      "d57ad7ea-b419-498b-8654-66e2eef5a0fd",
+      "062ffd91-a793-4b09-9317-01bde75cf8a2"
+    ],
+    "category": "databases",
+    "topic": "Cassandra + Oracle",
+    "type": "multi_memory"
+  },
+  {
+    "query": "Which two areas am I working with that relate to image understanding and complex pattern recognition?",
+    "relevant_memory_ids": [
+      "ba170c52-9222-4674-8af5-7bb0900e7b74",
+      "45c303a0-2192-4782-a3bc-60263c0ab4e0"
+    ],
+    "category": "artificial_intelligence",
+    "topic": "Computer Vision + Deep Learning",
+    "type": "multi_memory"
+  },
+  {
+    "query": "Which two areas am I working with that relate to sequential decision making and modern AI systems?",
+    "relevant_memory_ids": [
+      "682db722-ebbb-41c8-92a5-e8eb7b67b67a",
+      "df96fb09-e5e1-4b12-8719-1bfbe87106b7"
+    ],
+    "category": "artificial_intelligence",
+    "topic": "Reinforcement Learning + Transformers",
+    "type": "multi_memory"
+  },
+  {
+    "query": "Which two areas am I working with that relate to content generation and knowledge-aware AI?",
+    "relevant_memory_ids": [
+      "399d7103-440f-47f8-9b5f-f33b218b4284",
+      "2dd20b11-b8b4-48e7-b4ad-54125cd793a6"
+    ],
+    "category": "artificial_intelligence",
+    "topic": "Generative AI + Retrieval Augmented Generation",
+    "type": "multi_memory"
+  },
+  {
+    "query": "Which two areas am I working with that relate to language-based applications and semantic representation of information?",
+    "relevant_memory_ids": [
+      "399c3bda-6a66-4b36-a8e2-0ddbd55cfc70",
+      "c508ba05-0587-459b-a35d-c8531b5796e7"
+    ],
+    "category": "artificial_intelligence",
+    "topic": "Large Language Models + Embeddings",
+    "type": "multi_memory"
+  },
+  {
+    "query": "Which two areas am I working with that relate to reliable network communication and connectionless network communication?",
+    "relevant_memory_ids": [
+      "25299eda-ef10-41b7-af72-8bed9457c949",
+      "22937109-0b71-4fc4-b08d-0d69b15c05c8"
+    ],
+    "category": "networking",
+    "topic": "TCP + UDP",
+    "type": "multi_memory"
+  },
+  {
+    "query": "Which two areas am I working with that relate to domain name resolution and automatic network configuration?",
+    "relevant_memory_ids": [
+      "7ee6fee6-c025-49bc-bb8a-4f0d168f7458",
+      "32a66d21-6270-4e7b-97b6-57683c9102b7"
+    ],
+    "category": "networking",
+    "topic": "DNS + DHCP",
+    "type": "multi_memory"
+  },
+  {
+    "query": "Which two areas am I working with that relate to mapping IP addresses to hardware addresses and network diagnostics and control messages?",
+    "relevant_memory_ids": [
+      "daa8023e-346e-41a1-bfa0-938d29052cd4",
+      "03682eab-8995-43b3-b4ab-05507497b204"
+    ],
+    "category": "networking",
+    "topic": "ARP + ICMP",
+    "type": "multi_memory"
+  },
+  {
+    "query": "Which two areas am I working with that relate to packet reassembly and forwarding packets between networks?",
+    "relevant_memory_ids": [
+      "cd7d0baf-4679-44a3-8ec8-df835f95f6cb",
+      "092c8c59-c6a4-4a45-b781-84a74dd3ad6f"
+    ],
+    "category": "networking",
+    "topic": "IP fragmentation + Routing",
+    "type": "multi_memory"
+  },
+  {
+    "query": "Which two areas am I working with that relate to organizing IP networks and communication between web clients and servers?",
+    "relevant_memory_ids": [
+      "9216b977-b3e2-4d2a-9b2d-5c59d8c4f4a7",
+      "5f11754e-191c-4fc0-afd9-9dabe87fa018"
+    ],
+    "category": "networking",
+    "topic": "Subnetting + HTTP",
+    "type": "multi_memory"
+  },
+  {
+    "query": "Which two areas am I working with that relate to full-stack Python web development and server-side JavaScript applications?",
+    "relevant_memory_ids": [
+      "619895e6-f69a-4b83-8881-a67396d38939",
+      "2cfd4dc7-9c31-436a-a514-d215cbecfdb6"
+    ],
+    "category": "backend",
+    "topic": "Django + Node.js",
+    "type": "multi_memory"
+  },
+  {
+    "query": "Which two areas am I working with that relate to cloud infrastructure and container orchestration?",
+    "relevant_memory_ids": [
+      "b10aef45-4a70-428e-9fa2-0172b3d832c5",
+      "ddfeb790-8a65-4bcb-b695-13912b881aac"
+    ],
+    "category": "cloud_devops",
+    "topic": "Google Cloud + Kubernetes",
+    "type": "multi_memory"
+  },
+  {
+    "query": "Which two areas am I working with that relate to infrastructure as code and automated software delivery?",
+    "relevant_memory_ids": [
+      "b5db3271-5181-406f-9dae-91c52854bdb1",
+      "f3257ad0-002d-4c25-8433-637950242d22"
+    ],
+    "category": "cloud_devops",
+    "topic": "Terraform + CI/CD",
+    "type": "multi_memory"
+  },
+  {
+    "query": "Which two areas am I working with that relate to workflow automation and server and development environments?",
+    "relevant_memory_ids": [
+      "0b30dc71-a6fc-40e4-ac4a-05b1ea4be74b",
+      "97743d06-2540-4b0c-b334-ccefd425b4ec"
+    ],
+    "category": "cloud_devops",
+    "topic": "GitHub Actions + Linux",
+    "type": "multi_memory"
+  },
+  {
+    "query": "Which two areas am I working with that relate to web serving and reverse proxying and reliable services?",
+    "relevant_memory_ids": [
+      "4de2571f-61e6-4683-ab74-1ed7b0700470",
+      "d0d1776c-18c3-4e6c-bd3a-59ad0c257e77"
+    ],
+    "category": "cloud_devops",
+    "topic": "Nginx + Monitoring",
+    "type": "multi_memory"
+  },
+  {
+    "query": "Which two areas am I working with that relate to system resource management and Processes?",
+    "relevant_memory_ids": [
+      "76593ead-0f79-4608-8209-4f02d94c038a",
+      "1b5a42d6-8b6a-4662-a243-0242249c5f15"
+    ],
+    "category": "systems",
+    "topic": "Operating Systems + Processes",
+    "type": "multi_memory"
+  },
+  {
+    "query": "Which two areas am I working with that relate to persistent storage and Scheduling?",
+    "relevant_memory_ids": [
+      "6bf7fa86-8d9a-4beb-b05f-62e08521fed6",
+      "0e0f564c-0e5f-4f62-be87-77d0f6ad8aef"
+    ],
+    "category": "systems",
+    "topic": "File Systems + Scheduling",
+    "type": "multi_memory"
+  },
+  {
+    "query": "Which two areas am I working with that relate to synchronization and coordination?",
+    "relevant_memory_ids": [
+      "71bb8a5a-197e-4f37-a60a-dcac6cf38007",
+      "cda49219-978d-49de-a08d-9c55eb972f7e"
+    ],
+    "category": "systems",
+    "topic": "Deadlocks + Distributed Systems",
+    "type": "multi_memory"
+  },
+  {
+    "query": "Which two areas am I working with that relate to extracting useful patterns and dimensionality reduction?",
+    "relevant_memory_ids": [
+      "896bae3b-ae14-4a35-a36e-10da4e376990",
+      "70279e29-feab-4e75-bb31-832b83373373"
+    ],
+    "category": "data_science",
+    "topic": "Data Mining + PCA",
+    "type": "multi_memory"
+  },
+  {
+    "query": "Which two areas am I working with that relate to grouping similar data and K-Means?",
+    "relevant_memory_ids": [
+      "e48fd829-0603-44af-8278-521a1700046c",
+      "17413b7b-ca94-4b72-bcfb-a692a5f42bf0"
+    ],
+    "category": "data_science",
+    "topic": "Clustering + K-Means",
+    "type": "multi_memory"
+  },
+  {
+    "query": "Which two areas am I working with that relate to B-Trees and efficient vector similarity search?",
+    "relevant_memory_ids": [
+      "94932864-9052-4e1c-b8ee-784ca2b7d4cf",
+      "c3d68b1d-7661-4e03-bfb3-45b4b6a7c348"
+    ],
+    "category": "dbms",
+    "topic": "B-Trees + HNSW",
+    "type": "multi_memory"
+  },
+  {
+    "query": "Which two areas am I working with that relate to software quality and Debugging?",
+    "relevant_memory_ids": [
+      "dd2c5e70-29bd-471e-a073-a75b0960f299",
+      "4c4ca617-9f58-4e96-843c-9965c6d3fcba"
+    ],
+    "category": "software_engineering",
+    "topic": "Unit Testing + Debugging",
+    "type": "multi_memory"
+  },
+  {
+    "query": "Which two areas am I working with that relate to Agile and Design Patterns?",
+    "relevant_memory_ids": [
+      "e60eb8c6-b08f-48cc-abb7-6900dc396035",
+      "e56aaaa4-fbfa-4a74-9374-02a4f76e602f"
+    ],
+    "category": "software_engineering",
+    "topic": "Agile + Design Patterns",
+    "type": "multi_memory"
+  },
+  {
+    "query": "Which two areas am I working with that relate to Clean Code and Code Review?",
+    "relevant_memory_ids": [
+      "84db661c-6c92-4bce-b166-1e6af58ad8ba",
+      "c51b6b6b-399d-4e74-8f47-f40af835766f"
+    ],
+    "category": "software_engineering",
+    "topic": "Clean Code + Code Review",
+    "type": "multi_memory"
+  },
+  {
+    "query": "Which two areas am I working with that relate to Documentation and system design?",
+    "relevant_memory_ids": [
+      "a953ed5a-7f6a-4a01-95a5-6849d390163d",
+      "b3ff7945-9e76-444d-8560-cd097b458e3d"
+    ],
+    "category": "software_engineering",
+    "topic": "Documentation + Software Architecture",
+    "type": "multi_memory"
+  }
+]
